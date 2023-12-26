@@ -1,4 +1,4 @@
-# React + Vite
+PriceCardTask By using ReactJs to display in dynamic manner.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
